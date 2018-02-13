@@ -7,11 +7,6 @@ Lending institutions rely on models and algorithms based on “hard” informati
 
 These are the files created in order:
 
-Data Wrangling (Python 3).ipynb
-Data Storytelling (Pyspark) - Data Wrangling.ipynb
-Data Storytelling (Python 3) - SNA.ipynb
-Inferential Statistics (Python 3).ipynb
-Collaborative Filtering (Pyspark) - Data Wrangling.ipynb
-Collaborative Filtering (Python 3) - Machine Learning.ipynb
-Capstone Project 1 - Milestone Report (Python 3).ipynb
-Capstone Project 1 - Final Submission (R).ipynb
+Capstone Project 2 - Final Submission (Python3 & R).ipynb
+
+Capstone Project 2 - Milestone Report.ipynb
