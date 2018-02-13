@@ -7,6 +7,5 @@ Lending institutions rely on models and algorithms based on “hard” informati
 
 These are the files created in order:
 
-Capstone Project 2 - Final Submission (Python3 & R).ipynb
-
-Capstone Project 2 - Milestone Report.ipynb
+1. Capstone Project 2 - Final Submission (Python3 & R).ipynb
+2. Capstone Project 2 - Milestone Report.ipynb
