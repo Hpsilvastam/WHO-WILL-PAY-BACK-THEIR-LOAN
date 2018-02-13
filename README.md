@@ -9,3 +9,4 @@ These are the files created in order:
 
 1. Capstone Project 2 - Final Submission (Python3 & R).ipynb
 2. Capstone Project 2 - Milestone Report.ipynb
+3. impute_mice.R
